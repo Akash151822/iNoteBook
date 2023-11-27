@@ -1,0 +1,13 @@
+/* About.css */
+
+.custom-jumbotron {
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 40px;
+    border-radius: 15px;
+  }
+  
+  .custom-list-group {
+    background-color: #f8f9fa;
+  }
+ 
